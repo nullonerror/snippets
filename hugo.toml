@@ -1,0 +1,7 @@
+baseURL = 'https://snippets.study/'
+languageCode = 'en-us'
+title = 'Snippets Study'
+author = "Rodrigo Delduca"
+
+theme = 'bear'
+
